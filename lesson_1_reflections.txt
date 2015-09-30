@@ -1,0 +1,6 @@
+1. Its quite awesome how the diff made it easy to spot difference in a file, its
+easier than going through each line manually to search for differences
+
+2. Having access to older versions of file can be useful when debugging,
+especially when you don't know where to start, you can easily revert to an older
+working version that saved.

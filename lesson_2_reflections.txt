@@ -1,0 +1,4 @@
+This
+
+The "git init" command creates a .git directory in the present folder.
+This need to be done in order a astart using git to track the changes of your project
