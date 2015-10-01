@@ -11,4 +11,7 @@ Its advisable to commit changes once a file is added to the Staging Area and a
 logical change has been made
 
 Git Branch comes handy when you want to try out a new feature than youre not sure of
-or when you want to create a different language version. 
+or when you want to create a different language version.
+
+Drawing Git Diagrams helps me vissualize the whole structure of my git repository. I can view
+commits and their relationships, and also branches and their connectivity.
