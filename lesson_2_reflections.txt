@@ -15,3 +15,5 @@ or when you want to create a different language version.
 
 Drawing Git Diagrams helps me vissualize the whole structure of my git repository. I can view
 commits and their relationships, and also branches and their connectivity.
+
+Git Merge: When two branches are merged together,the functionality of the different branches adds up
