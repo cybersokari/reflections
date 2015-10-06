@@ -17,3 +17,6 @@ Drawing Git Diagrams helps me vissualize the whole structure of my git repositor
 commits and their relationships, and also branches and their connectivity.
 
 Git Merge: When two branches are merged together,the functionality of the different branches adds up
+
+Git Automatic merging is the default way to merge diffrent branches(commits).
+Manual merging is used when theres a git conflict(eg; change of a particular variable in diff branches)
