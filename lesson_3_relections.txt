@@ -1,0 +1,2 @@
+
+Remote repository comes handy when youre working with a team, or when you are not close to your computer
