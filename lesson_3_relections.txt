@@ -7,3 +7,8 @@ want to publish an unfinished feature to a remote repository, and vice-versa.
 A git fork is a copy of a repository that doesn't belong to you on Github, a git clone is a copy of
 someones github or git repository to an offline git repository, while git branch is
  a new commit made in parallel of the master commit in a git repository.
+
+
+The best part of having a copy of the last known state of the remote stored
+locally is the convenience it give you to be able to work and check for changes
+anytime you like, without the need to be online(github). 
