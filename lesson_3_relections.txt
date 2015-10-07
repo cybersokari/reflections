@@ -1,2 +1,5 @@
 
 Remote repository comes handy when youre working with a team, or when you are not close to your computer
+
+Pushing and pulling manually is the better way because the you wouldn't
+want to publish an unfinished feature to a remote repository, and vice-versa.
