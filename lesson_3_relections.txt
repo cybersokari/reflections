@@ -14,4 +14,8 @@ locally is the convenience it give you to be able to work and check for changes
 anytime you like, without the need to be online(github).
 
  Without Git  and Github, collaborating will have be done by showing your changes
- to a colleague in person. Using Git and Github sure makes things easier and flexible. 
+ to a colleague in person. Using Git and Github sure makes things easier and flexible.
+
+ I'd prefer to make Changes on separate branches so as to preserve the basic functionality
+ of the project I am working on, just in case I dont like the changes on the current branch I can just
+ delete that particular branch
