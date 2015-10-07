@@ -11,4 +11,7 @@ someones github or git repository to an offline git repository, while git branch
 
 The best part of having a copy of the last known state of the remote stored
 locally is the convenience it give you to be able to work and check for changes
-anytime you like, without the need to be online(github). 
+anytime you like, without the need to be online(github).
+
+ Without Git  and Github, collaborating will have be done by showing your changes
+ to a colleague in person. Using Git and Github sure makes things easier and flexible. 
