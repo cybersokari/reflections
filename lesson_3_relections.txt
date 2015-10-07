@@ -3,3 +3,7 @@ Remote repository comes handy when youre working with a team, or when you are no
 
 Pushing and pulling manually is the better way because the you wouldn't
 want to publish an unfinished feature to a remote repository, and vice-versa.
+
+A git fork is a copy of a repository that doesn't belong to you on Github, a git clone is a copy of
+someones github or git repository to an offline git repository, while git branch is
+ a new commit made in parallel of the master commit in a git repository.
